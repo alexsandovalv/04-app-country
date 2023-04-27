@@ -1,4 +1,4 @@
-import {Component, Inject, OnInit} from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import {Country} from "../../interfaces/country";
 import {CountriesService} from "../../services/countries.service";
 
